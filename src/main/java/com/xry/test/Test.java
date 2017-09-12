@@ -5,7 +5,6 @@ package com.xry.test;
  */
 public class Test {
 
-//    private String hello="hello,bad weather!";
       private String hello1="hello,bad weather!";
 
     public void weather(){
