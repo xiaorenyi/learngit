@@ -5,7 +5,7 @@ package com.xry.test;
  */
 public class Test {
 
-      private String hello1="hello,bad weather!";
+    private int i=10;
 
     public void weather(){
         System.out.println(hello1);
