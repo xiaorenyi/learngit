@@ -6,4 +6,6 @@ package com.xry.test;
 public class Test {
 
     private int i=10;
+
+    private String h="dd";
 }
