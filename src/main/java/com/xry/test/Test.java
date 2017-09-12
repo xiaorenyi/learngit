@@ -5,5 +5,9 @@ package com.xry.test;
  */
 public class Test {
 
-    private int i=10;
+    private String hello="hello,bad weather!";
+
+    public void weather(){
+        System.out.println(hello);
+    }
 }
