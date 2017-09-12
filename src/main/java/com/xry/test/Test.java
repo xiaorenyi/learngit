@@ -6,8 +6,8 @@ package com.xry.test;
 public class Test {
 
     private int i=10;
-
+    private String ii="hhhh";
     public void weather(){
-        System.out.println("");
+        System.out.println(ii);
     }
 }
