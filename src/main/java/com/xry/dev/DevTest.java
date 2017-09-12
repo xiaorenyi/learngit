@@ -6,4 +6,6 @@ package com.xry.dev;
 public class DevTest {
 
     private String dev="测试分支";
+
+    private String done="测试分支完毕，我要合并分支了";
 }
