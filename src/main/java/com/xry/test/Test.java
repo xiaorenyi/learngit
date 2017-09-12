@@ -9,7 +9,6 @@ public class Test {
 
     private Long ee=123l;
     private String ii="hhhh";
-    private String ii2="hhhh";
     public void weather(){
         System.out.println(ii);
     }
