@@ -7,9 +7,8 @@ public class Test {
 
     private int i=10;
 
-    private String ii="hhhh";
     private String ii2="hhhh";
     public void weather(){
-        System.out.println(ii);
+        System.out.println(ii2);
     }
 }
