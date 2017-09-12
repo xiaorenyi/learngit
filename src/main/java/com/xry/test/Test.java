@@ -6,6 +6,7 @@ package com.xry.test;
 public class Test {
 
     private int i=10;
+
     private Long ee=123l;
     private String ii="hhhh";
     private String ii2="hhhh";
