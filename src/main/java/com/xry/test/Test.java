@@ -8,7 +8,7 @@ public class Test {
     private int i=10;
 
     private Long ee=123l;
-    private String ii="hhhh";
+    private int ii=12321;
     public void weather(){
         System.out.println(ii);
     }
