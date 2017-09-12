@@ -8,6 +8,6 @@ public class Test {
     private int i=10;
 
     public void weather(){
-        System.out.println(hello1);
+        System.out.println("");
     }
 }
